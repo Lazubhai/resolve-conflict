@@ -1,3 +1,6 @@
 # resolve-conflict
 
-edited in branch 2
+
+
+edited in branch 1
+
